@@ -1,1 +1,2 @@
 Modificiación desde feature1.
+Modificación desde feature2.
