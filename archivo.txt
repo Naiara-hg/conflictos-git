@@ -1,1 +1,1 @@
-Línea original en la rama main.
+Modificiación desde feature1.
